@@ -8,7 +8,8 @@ class Main:
 	def menu(self):
 		print("""
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-		;       S P A M  S M S      ;
+		;       S P A M  memek
+     ;
 		;---------------------------;
 		;       Author : noobie     ;
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -23,7 +24,8 @@ NOTE: This tool's only work for Indonesia number phone.
 """)
 		pilih=int(input('noobie/> '))
 		if pilih == 1:
-			import src.payu
+			import src.bagong
+
 		elif pilih == 2:
 			import src.matahari
 		elif pilih == 3:
